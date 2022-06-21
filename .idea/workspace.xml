@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18b6640e-ffe9-4bf2-b2f0-2cb8047d4c58" name="Changes" comment="" />
+    <list default="true" id="18b6640e-ffe9-4bf2-b2f0-2cb8047d4c58" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/label_smooth_ce.py" beforeDir="false" afterPath="$PROJECT_DIR$/label_smooth_ce.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
