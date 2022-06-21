@@ -47,7 +47,6 @@ class LabelSmoothCE(nn.Module):
         return loss
 
 
-
 if __name__ == "__main__":
     d = t.tensor([[0.1, 0.8, 0.1], [0.1, 0.7, 0.2], [0.3, 0.4, 0.3]])
     l = t.tensor([0, 1, 2])
